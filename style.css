@@ -14,3 +14,15 @@ img {
   margin: 0 auto;
   width: 200px;
 }
+
+.btn{
+  border-radius: 10px;
+  padding: 20px;
+  display: inline;
+  text-decoration: none;
+}
+
+.btn-primary{
+  background-color: black;
+  color: white;
+}
